@@ -1,0 +1,7 @@
+http://csapp.cs.cmu.edu/public/docs/gdbnotes-ia32.pdf
+
+https://www.classes.cs.uchicago.edu/archive/2009/spring/22620-1/docs/handout-03.pdf
+
+https://www.cs.cmu.edu/~fp/courses/15213-s07/misc/asm64-handout.pdf
+
+https://www.recurse.com/blog/7-understanding-c-by-learning-assembly
